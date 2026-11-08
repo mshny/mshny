@@ -1,5 +1,5 @@
 <div align="center">
-  <b>Hi, I'm Mohammed L Shnawy</b>
+  <b>Hi, I'm Mohammed Shnawy</b>
 </div>
 
 <br />
@@ -10,4 +10,13 @@
     <a href="https://www.linkedin.com/in/mohamedshnwy/">Linkedin</a> | 
     <a href="https://twitter.com/mohamedshnwy">Twitter</a>
   </samp>
+  </div>
+<br />
+
+
+
+<div align="center">
+  
+Currently doing [180daysofAI](https://github.com/mshny/180daysofAI)
+
 </div>
